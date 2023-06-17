@@ -1,6 +1,6 @@
 Olá pessoas, eu sou a Lúcia!✨
-💻- Estudante no segundo período de Ciências da Computação;
-⭐- Futura desenvolvedora Front-end!
+-💻 Estudante no segundo período de Ciências da Computação;
+-⭐ Futura desenvolvedora Front-end!
 
 <div align="center">
   <a href="https://github.com/luciafm">
