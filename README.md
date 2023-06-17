@@ -5,7 +5,7 @@ Olá pessoas, eu sou a Lúcia!✨
 <div align="center">
   <a href="https://github.com/luciafm">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=luciafm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciafm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciafm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
