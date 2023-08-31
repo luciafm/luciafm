@@ -1,5 +1,5 @@
 Olá pessoas, eu sou a Lúcia!✨
- - 💻 Estudante no segundo período de Ciências da Computação;
+ - 💻 Estudante de Ciências da Computação;
  - ⭐ Futura desenvolvedora Front-end!
 
 <div align="center">
