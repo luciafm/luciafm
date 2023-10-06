@@ -1,6 +1,4 @@
-Olá pessoas, eu sou a Lúcia!✨
- - 💻 Estudante de Ciências da Computação;
- - ⭐ Futura desenvolvedora Front-end!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=980&color=FC6D95&width=435&lines=Ol%C3%A1%2C+eu+sou+L%C3%BAcia+de+F%C3%A1tima+Martins;Curso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPI;Bem-vindo+ao+meu+git!+%3C3)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/luciafm">
