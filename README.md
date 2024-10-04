@@ -4,7 +4,7 @@
 
   <div>
     🎓 Graduanda de Ciência da Computação na UFPI<br>
-    👩‍💻 Desenvolvedora frontend com foco em React <br>
+    👩‍💻 Desenvolvedora front-end com foco em React <br>
     ✨ Transformo códigos em experiências visuais que conectam.
   </div>
   
