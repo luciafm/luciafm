@@ -5,7 +5,7 @@
   <div>
     👩‍🎓 Graduanda de Ciência da Computação na UFPI<br>
     👩‍💻 Desenvolvedora frontend com foco em React <br>
-    🦾 Acredito na capacidade de enfrentar desafios em equipe
+    🦾 Acredito que a tecnologia é uma ferramenta poderosa para criar impacto positivo no mundo."
   </div>
   
 </div>
