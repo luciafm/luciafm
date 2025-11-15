@@ -3,7 +3,7 @@
   ## **Oii, eu sou a Lúcia de Fátima Martins!!** <br>
 
   <div>
-    🎓 Graduanda de Ciência da Computação na UFPI<br>
+    🎓 Graduanda de Análise e Desenvolvimento de Sistemas no IFPI<br>
     👩‍💻 Desenvolvedora front-end com foco em React <br>
     ✨ Transformo códigos em experiências visuais que conectam.
   </div>
